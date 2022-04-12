@@ -1,9 +1,18 @@
 <h1 align="center"> Hello there! I'm Lizzie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="![avatar](https://user-images.githubusercontent.com/94926516/162859713-09d6fe52-c040-4020-a5ed-735bc2de767f.png)">
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 
+  <p align="center">
+   <img src="https://user-images.githubusercontent.com/94926516/162859713-09d6fe52-c040-4020-a5ed-735bc2de767f.png">
+  </p>
+    
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 
-<h3> Tools 🔨 </h3>
+<h3 align="center"> Tools 🔨 </h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;

@@ -3,6 +3,6 @@
 
 <h3 align="center"> Some stats 🤓 </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LizzieSevC&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LizzieSevC&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 
